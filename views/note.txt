@@ -1,0 +1,9 @@
+// GET, POST, PATCH, PUT, DELETE - request method
+
+// CRUD - CREATE READ UPDATE DELETE 
+CREATE - request body - POST
+
+READ - GET 
+all meals 
+
+get single meal 
